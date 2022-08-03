@@ -1,4 +1,5 @@
 # FishSpecies_demo
+Task to predict fish specied and deploy model to the Heroku.
 
 # Contents of the Repository
 
